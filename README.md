@@ -32,7 +32,7 @@
 *Seja na sala de aula, análise de dados ou programação, sou movido pela curiosidade e pelo desejo de fazer um impacto positivo. Vamos nos conectar e aprender juntos!*
 
 <!-- Start of Statistics and Connections -->
-[![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegoaguiardsa&bg_color=0d1117&color=975a58&line=975a58&point=975a58&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegoaguiardsa&bg_color=0d1117&color=975a58&line=975a58&point=581d22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoaguiardsa&show_icons=true&theme=react&title_color=975a58&icon_color=975a58)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoaguiardsa&hide_progress=true&theme=react&title_color=975a58&icon_color=975a58)](https://github.com/anuraghazra/github-readme-stats)
 
